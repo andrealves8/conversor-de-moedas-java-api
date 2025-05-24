@@ -25,17 +25,5 @@ Foi criado com o objetivo de praticar boas práticas de programação orientada 
 
 ## 📁 Estrutura do Projeto
 
-src/conversordemoedas/
-│
-├── ConversorApp.java               # Classe principal (main)          
-│
-├── controller/
-│   └── ConversorController.java    # Controla o fluxo entre view e model
-│
-├── model/
-│   ├── ConversorModel.java         # Lógica de conversão
-│   └── dto/
-│       └── ConversorTaxasDTO.java  # Armazena as taxas de câmbio
-│
-└── view/
-    └── ConversorView.java          # Interface com o usuário (console)
+![estrutura do projeto](https://github.com/user-attachments/assets/27a82850-f85f-4545-a482-5ade96715612)
+
