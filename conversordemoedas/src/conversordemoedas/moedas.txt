@@ -1,0 +1,7 @@
+Códigos de moeda
+
+Dólar: USD ($)
+Iene: JPY (¥)
+Euro: EUR (€)
+Real Brasileiro: BRL (R$)
+Peso Argentino: ARS ($)
