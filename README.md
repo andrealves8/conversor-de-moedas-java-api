@@ -37,4 +37,18 @@ Foi criado com o objetivo de praticar boas práticas de programação orientada 
 ```bash
 git clone https://github.com/andrealves8/conversor-moedas.git
 cd conversor-moedas
+```
+
+2. Compile o projeto com Maven:
+```bash
+mvn compile
+```
+
+3. Execute o projeto:
+```bash
+mvn exec:java -Dexec.mainClass="view.ConversorView"
+```
+✅ Verifique se o plugin exec-maven-plugin está configurado no pom.xml.
+
+
 
