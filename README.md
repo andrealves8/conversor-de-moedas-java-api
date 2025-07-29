@@ -1,3 +1,7 @@
+
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/e89561b6-9e04-4612-9fd2-18a8e2847055" />
+
+
 # 💱 Conversor de Moedas em Java
 
 Este é um projeto de **Conversor de Moedas** desenvolvido em **Java**, utilizando o padrão de arquitetura **MVC (Model-View-Controller)**. 
